@@ -39,7 +39,7 @@
 ---
 
 ## 📫 Como me encontrar
-- **Email:** seuemail@example.com
+- **Email:** Thalysvl05@gmail.com
 - **LinkedIn:** [linkedin.com/in/seuperfil](#)
 - **GitHub:** [github.com/thalysvl05](#)
 
