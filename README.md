@@ -50,9 +50,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Thalys's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalysvl05&show_icons=true&theme=tokyonight)    
+![Thalys's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalysvl05&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysvl05&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=thalysvl05&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysvl05&layout=compact&theme=tokyonight)
 
 ---
 
