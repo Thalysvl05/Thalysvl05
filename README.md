@@ -37,7 +37,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=jira&logoColor=white)
 ![UX/UI](https://img.shields.io/badge/UX/UI-FF4088?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ---
 
 ## 🚀 Projetos em destaque
